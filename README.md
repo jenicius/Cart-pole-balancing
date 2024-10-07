@@ -1,4 +1,4 @@
-# Cart-pole-balancing
+# Cart pole balancing
 An assignment from CS229 - Machine Learning course from Stanford University (2019).
 
 The cart-pole balancing problem is a classic control task where the goal is to keep a pole balanced by moving a cart left or right.  
